@@ -1,4 +1,4 @@
-var img = ['https://i.postimg.cc/QxYMrK0y/cf5fe4a4515038e081e8db84fea49907.jpg','https://i.postimg.cc/9XHywKPB/f1zq83fosi591.jpg','https://i.postimg.cc/BSXmBrK9/1rp-Zd9-TCEp0-Zkq-Ay-DRvi-QB8ka8-LVsq-Lya-Co1-YJEDYS0.png','https://i.postimg.cc/Z5bcB2SQ/1oo092ju6uh61.jpg','https://i.postimg.cc/FHdMqYfm/0b3da3d1f0198d402423f9e1ff7e08c8.jpg','https://i.postimg.cc/1zv7fQD8/9f981d86747c49b618b48c452e4169e5.jpg']
+var img = ['https://i.postimg.cc/QxYMrK0y/cf5fe4a4515038e081e8db84fea49907.jpg','https://i.postimg.cc/9XHywKPB/f1zq83fosi591.jpg','https://i.postimg.cc/BSXmBrK9/1rp-Zd9-TCEp0-Zkq-Ay-DRvi-QB8ka8-LVsq-Lya-Co1-YJEDYS0.png','https://i.postimg.cc/Z5bcB2SQ/1oo092ju6uh61.jpg','https://i.postimg.cc/FHdMqYfm/0b3da3d1f0198d402423f9e1ff7e08c8.jpg','https://i.postimg.cc/SxFm4Bww/63f03bd29fa4a19bfd9747533f3b25e1.jpg']
 
 var old = 5
 var clicks = 0
