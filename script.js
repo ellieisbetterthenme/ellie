@@ -70,7 +70,7 @@ fp.forEach(function(el){
           setTimeout(function(){
             reload()
             randomize()            
-          },1500)
+          },6000)
         } 
       }
     }    
